@@ -1,5 +1,5 @@
 title:               Sangkyu Son
-url:                 https://nicoelayda.github.io
+url:                 https://sangkyuson.github.io
 baseurl:             ""
 
 markdown:            kramdown
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Sangkyu Son
+  url:               sangkyuson.github.io
+  email:             ss.sangkyu.son@gmail.com
 
 plugins:
   - jekyll-coffeescript
