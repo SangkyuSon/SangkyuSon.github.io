@@ -67,7 +67,7 @@ Effect of spatiotemporally changing environment on serial dependence in ensemble
 2011-2014&nbsp;&nbsp;	Yulgok Scholarship, Sungkyunkwan University ($ 7,400) <br>
 
 ## Teaching
-Fall&nbsp;&nbsp;&nbsp;&nbsp; 2020&nbsp;&nbsp;	Introductory biomedical engineering lab, Sungkyunkwan University <br>
-Fall&nbsp;&nbsp;&nbsp;&nbsp; 2019&nbsp;&nbsp;	Cognitive science in biomedical engineering, Sungkyunkwan University <br>
+Fall&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020&nbsp;&nbsp;	Introductory biomedical engineering lab, Sungkyunkwan University <br>
+Fall&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019&nbsp;&nbsp;	Cognitive science in biomedical engineering, Sungkyunkwan University <br>
 Spring 2019&nbsp;&nbsp;	Bioprograming and machine learning, Sungkyunkwan University <br>
 
