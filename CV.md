@@ -4,5 +4,5 @@ title: CV
 ---
 
 # Eductation
-- <span style="color:red">2011-2014</span>
+<span style="color:blue">hihi</span>
 -  **MSE in Biomedical engineering**, <span style="color:red">Neuroscience track</span>
