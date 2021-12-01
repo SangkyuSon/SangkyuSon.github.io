@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 <center><img src="./data/cover.png" width="50%" height="50%"></center>
+
 # <center> <span style="color:rgb(10,59,118)"> Sangkyu Son </span></center> 
 ## <center> researcher</center> 
 <center> 
