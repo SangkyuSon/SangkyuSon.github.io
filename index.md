@@ -2,8 +2,7 @@
 layout: default
 title: Home
 ---
-![](./data/cover.png)
-<img src="image_src" align="right">
+![](./data/cover.png){: width="100%" height="100%" align="center"}
 # <center> <span style="color:rgb(10,59,118)"> Sangkyu Son </span></center> 
 ## <center> researcher</center> 
 <center> 
