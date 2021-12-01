@@ -28,12 +28,12 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
 ## Honors
-- 2021	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology 
-- 2019-2020	Simsan Scholarship, Sungkyunkwan University ($ 1,500) 
-- 2019	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology 
-- 2018-2021	Institute of Basic Science Scholarship ($ 45,900) 
-- 2014	Songcheon Scholarship ($ 2,600) 
-- 2011-2014	Yulgok Scholarship, Sungkyunkwan University ($ 7,400) 
+- <span style="color:gray"> 2021</span>	Outstanding presenter award, <span style="color:gray">from the annual meeting of the Korean Society for Cognitive & Biological Psychology </span>
+- <span style="color:gray">2019-2020</span>	Simsan Scholarship, <span style="color:gray">Sungkyunkwan University ($ 1,500) </span>
+- <span style="color:gray">2019</span>	Outstanding presenter award, <span style="color:gray">from the annual meeting of the Korean Society for Cognitive & Biological Psychology </span>
+- <span style="color:gray">2018-2021</span>	Institute of Basic Science Scholarship <span style="color:gray">($ 45,900) </span>
+- <span style="color:gray">2014</span>	Songcheon Scholarship <span style="color:gray">($ 2,600) </span>
+- <span style="color:gray">2011-2014 </span>	Yulgok Scholarship, Sungkyunkwan University <span style="color:gray">($ 7,400) </span>
 
 ## Teaching
 - Fall 2020	Introductory biomedical engineering lab, Sungkyunkwan University
