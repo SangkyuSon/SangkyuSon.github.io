@@ -10,7 +10,7 @@ The effect of temporal expectation on motion direction representation of an occl
 **Son, S.**, Moon, J., & Lee, J. (2021) <br>
 The effect of temporal expectation on motion direction representation of an occluded object. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, online.<br>
 
-**Son. S.**, Kwon, O., & Kim, Y. J. (2019) [slide] <br>
+**Son. S.**, Kwon, O., & Kim, Y. J. (2019) <br>
 Serial dependence in ensemble representations under spatiotemporally changing environment. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, Pyeongchang, South Korea. <br>
 
 **Son. S.**, & Kim, Y. J. (2018). [abstract](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
