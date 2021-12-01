@@ -46,7 +46,7 @@ Induced astigmatism biases the orientation information represented in multivaria
 Distortion and compensation of astigmatism in orientation information (master’s thesis). Sungkyunkwan University, Suwon-si, South Korea. <br>
 
 ## Conference presentations
-**Son, S.**, Moon, J., & Lee, J. (2021) [video]({{ site.baseurl }}/data/sfn_presentation.mp4) <br>
+**Son, S.**, Moon, J., & Lee, J. (2021) [video](github.com/SangkyuSon/sangkyuson.github.io/data/sfn2021_presentation.mp4) <br>
 The effect of temporal expectation on motion direction representation of an occluded object. Poster presentation at Society for Neuroscience, online<br>
 
 **Son, S.**, Moon, J., & Lee, J. (2021) <br>
