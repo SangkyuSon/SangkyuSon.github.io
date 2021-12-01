@@ -36,7 +36,8 @@ Contact: <ss.sangkyu.son@gmail.com>
 - <span style="color:gray">2011-2014 </span>	Yulgok Scholarship, Sungkyunkwan University <span style="color:gray">($ 7,400) </span>
 
 ## Teaching
+<span style="color:gray">
 - Fall 2020	Introductory biomedical engineering lab, Sungkyunkwan University
 - Fall 2019	Cognitive science in biomedical engineering, Sungkyunkwan University
 - Spring 2019	Bioprograming and machine learning, Sungkyunkwan University
-
+</span>
