@@ -44,3 +44,16 @@ Induced astigmatism biases the orientation information represented in multivaria
 
 **Son, S.** (2021). [pdf](https://dcollection.skku.edu/public_resource/pdf/000000161506_20211201123600.pdf)<br>
 Distortion and compensation of astigmatism in orientation information (master’s thesis). Sungkyunkwan University, Suwon-si, South Korea. <br>
+
+## Conference presentations
+**Son, S.**, Moon, J., & Lee, J. (2021) [video]() <br>
+The effect of temporal expectation on motion direction representation of an occluded object. Poster presentation at Society for Neuroscience, online<br>
+
+**Son, S.**, Moon, J., & Lee, J. (2021) <br>
+The effect of temporal expectation on motion direction representation of an occluded object. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, online.<br>
+
+**Son. S.**, Kwon, O., & Kim, Y. J. (2019) [slide] <br>
+Serial dependence in ensemble representations under spatiotemporally changing environment. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, Pyeongchang, South Korea. <br>
+
+**Son. S.**, & Kim, Y. J. (2018). [abstract](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
+Effect of spatiotemporally changing environment on serial dependence in ensemble representations. Poster presentation at Vision Science Society, Tempa, FL<br>
