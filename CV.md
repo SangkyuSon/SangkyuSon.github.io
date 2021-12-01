@@ -59,9 +59,9 @@ Serial dependence in ensemble representations under spatiotemporally changing en
 Effect of spatiotemporally changing environment on serial dependence in ensemble representations. Poster presentation at Vision Science Society, Tempa, FL<br>
 
 ## Honors
-2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology <br>
-2019-2020	Simsan Scholarship, Sungkyunkwan University ($ 1,500) <br>
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology <br>
-2018-2021	Institute of Basic Science Scholarship ($ 45,900) <br>
-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Songcheon Scholarship ($ 2,600) <br>
-2011-2014	Yulgok Scholarship, Sungkyunkwan University ($ 7,400) <br>
+2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology <br>
+2019-2020&nbsp;&nbsp;	Simsan Scholarship, Sungkyunkwan University ($ 1,500) <br>
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology <br>
+2018-2021&nbsp;&nbsp;	Institute of Basic Science Scholarship ($ 45,900) <br>
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Songcheon Scholarship ($ 2,600) <br>
+2011-2014&nbsp;&nbsp;	Yulgok Scholarship, Sungkyunkwan University ($ 7,400) <br>
