@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# <font color= rgb(10,59,118)> Sangkyu Son </font>
+# <span style="color:rgb(10,59,118)"> Sangkyu Son </span>
 ## <center> researcher <br>
 <center> 
   Center for Neuroscience Imaging Research (CNIR) <br>
