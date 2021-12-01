@@ -3,9 +3,7 @@ layout: page
 title: Research topics
 ---
 
-- Feature specific distortion and compensation of astigmatic vision 
-<details>
-<summary>[Read more]</summary>
+- Feature specific distortion and compensation of astigmatic vision <details> <summary>[Read more]</summary>
 <div markdown="1">
 # hihi
 </div>
