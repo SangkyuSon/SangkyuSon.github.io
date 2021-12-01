@@ -2,9 +2,9 @@
 layout: default
 title: Home
 ---
-# <span style="color:rgb(10,59,118)"> Sangkyu Son </span>
-## <center> researcher <br>
 <center> 
+  # <span style="color:rgb(10,59,118)"> Sangkyu Son </span>
+  ## researcher
   Center for Neuroscience Imaging Research (CNIR) <br>
   Institute for Basic Science (IBS) <br>
   Republic of Korea <br>
