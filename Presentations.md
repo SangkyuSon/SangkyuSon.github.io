@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conference presentations
+title: Presentations
 ---
 **Son, S.**, Moon, J., & Lee, J. (2021) [video](https://www.youtube.com/watch?v=za12HqT5_gA) <br>
 The effect of temporal expectation on motion direction representation of an occluded object. Poster presentation at Society for Neuroscience, online<br>
