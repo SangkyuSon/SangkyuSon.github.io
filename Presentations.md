@@ -16,4 +16,3 @@ Serial dependence in ensemble representations under spatiotemporally changing en
 **Son. S.**, & Kim, Y. J. (2018). [abstract](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
 Effect of spatiotemporally changing environment on serial dependence in ensemble representations. Poster presentation at Vision Science Society, Tempa, FL<br>
 
-## Informal meetings
