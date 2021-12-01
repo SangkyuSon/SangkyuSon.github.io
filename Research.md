@@ -4,12 +4,12 @@ title: Research topics
 ---
 
 - Feature specific distortion and compensation of astigmatic vision 
-<details> 
-  <summary>[details below]</summary>
-  <div markdown="1">
-    # hihi
-  </div>
-</details>
+  <details> 
+    <summary>[details below]</summary>
+    <div markdown="1">
+      # hihi
+    </div>
+  </details>
 
 -    [[Read more]](data/astig.md)
 - Transmission of motion direction information according to temporal expectation [[Read more]](data/DTE.md)
