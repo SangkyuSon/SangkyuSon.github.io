@@ -3,8 +3,8 @@ layout: page
 title: Research topics
 ---
 
-- Feature specific distortion and compensation of astigmatic vision <details> 
-  - <summary>[details below]</summary><div markdown="1"> # hihi</div></details>
+- Feature specific distortion and compensation of astigmatic vision
+  - <details><summary>[details below]</summary><div markdown="1"> # hihi</div></details>
 
 - Transmission of motion direction information according to temporal expectation 
 <details> 
