@@ -15,3 +15,4 @@ Contact: <ss.sangkyu.son@gmail.com>
 -  <span style="color:gray">2021-</span> **Post-master researcher**, <br> <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span> <br> <span style="color:gray">Advisor: Joonyeol Lee</span>
 -  <span style="color:gray">2018-2020</span> **Master's student**, <br> <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span> <br> <span style="color:gray">Advisor: Joonyeol Lee & Yee-Joon Kim</span>
 -  <span style="color:gray">2017-2018</span> **Research assistant**, <br> <span style="color:gray">Center for Cognition and Sociality, Institute for Basic Science</span> <br> <span style="color:gray">Advisor: Yee-Joon Kim</span>
+-  <span style="color:gray">2014</span> **Undergraduate research assistant**, <br> <span style="color:gray">Department of Psychology, Sungkyunkwan University</span> <br> <span style="color:gray">Advisor: Min-Suk Kang</span>
