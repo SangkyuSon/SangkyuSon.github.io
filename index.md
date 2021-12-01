@@ -7,6 +7,7 @@ title: Home
 ## <center> researcher</center> 
 <center> 
   Center for Neuroscience Imaging Research (CNIR) <br>
-  Institute for Basic Science (IBS) <br>
-  Republic of Korea <br>
+  Institute for Basic Science (IBS), Republic of Korea <br>
+  
+  
 </center>
