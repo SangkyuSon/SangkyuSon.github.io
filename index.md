@@ -10,7 +10,3 @@ title: Home
   Institute for Basic Science (IBS) <br>
   Republic of Korea <br>
 </center>
-
-<center> [Scholar](https://scholar.google.co.kr/citations?user=NYCkQZAAAAAJ&hl=ko&oi=ao) / Contact: <ss.sangkyu.son@gmail.com> </center>
-
-
