@@ -11,7 +11,7 @@ Contact: <ss.sangkyu.son@gmail.com>
 -  <span style="color:gray">2011-2014</span> **BA in Psychology & Philosophy**, <span style="color:gray">*magna cum laude*, Sungkyunkwan University</span>
 
 ## Positions
-- <span style="color:gray">2021-</span> **Post-master researcher** <br> 
+- <span style="color:gray">2021-present</span> **Post-master researcher** <br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
 <span style="color:gray">Advisor: [Joonyeol Lee](https://semoconlab.com/)</span>
 
