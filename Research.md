@@ -3,10 +3,12 @@ layout: page
 title: Research topics
 ---
 
-- Feature specific distortion and compensation of astigmatic vision <summary>[Read more]</summary>
+- Feature specific distortion and compensation of astigmatic vision 
+<summary>[Read more]</summary>
+<div markdown="1">
 # hihi
-
 </div>
+
 -    [[Read more]](data/astig.md)
 - Transmission of motion direction information according to temporal expectation [[Read more]](data/DTE.md)
 - Time perception during pain [[Read more]](data/paintime.md)
