@@ -27,37 +27,6 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Department of Psychology, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
-## Publications
-\* indicates equal contributions
-
-**Son, S.**, Kang, H., & Lee, J. (*under review*). <br>
-Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
-
-**Son, S.\***, Moon, J.\*, & Lee, J. (*in prep.*). <br>
-The effect of temporal expectation on motion direction representation of an occluded object. <br>
-
-**Son, S.**, Kwon, O, & Kim, Y. J. (*in prep.*). <br> 
-Effect of spatiotemporally changing environment on serial dependence in ensemble perception. <br>
-
-**Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25550) <br> 
-Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. *Human Brain Mapping.* <br>
-
-**Son, S.** (2021). [pdf](https://dcollection.skku.edu/public_resource/pdf/000000161506_20211201123600.pdf)<br>
-Distortion and compensation of astigmatism in orientation information (master’s thesis). Sungkyunkwan University, Suwon-si, South Korea. <br>
-
-## Conference presentations
-**Son, S.**, Moon, J., & Lee, J. (2021) [video](https://www.youtube.com/watch?v=za12HqT5_gA) <br>
-The effect of temporal expectation on motion direction representation of an occluded object. Poster presentation at Society for Neuroscience, online<br>
-
-**Son, S.**, Moon, J., & Lee, J. (2021) <br>
-The effect of temporal expectation on motion direction representation of an occluded object. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, online.<br>
-
-**Son. S.**, Kwon, O., & Kim, Y. J. (2019) [slide] <br>
-Serial dependence in ensemble representations under spatiotemporally changing environment. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, Pyeongchang, South Korea. <br>
-
-**Son. S.**, & Kim, Y. J. (2018). [abstract](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
-Effect of spatiotemporally changing environment on serial dependence in ensemble representations. Poster presentation at Vision Science Society, Tempa, FL<br>
-
 ## Honors
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology <br>
 2019-2020&nbsp;&nbsp;	Simsan Scholarship, Sungkyunkwan University ($ 1,500) <br>
