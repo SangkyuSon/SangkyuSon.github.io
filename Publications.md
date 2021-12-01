@@ -1,4 +1,7 @@
-## Publications
+---
+layout: page
+title: Publications
+---
 \* indicates equal contributions
 
 **Son, S.**, Kang, H., & Lee, J. (*under review*). <br>
