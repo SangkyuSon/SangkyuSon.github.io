@@ -57,3 +57,11 @@ Serial dependence in ensemble representations under spatiotemporally changing en
 
 **Son. S.**, & Kim, Y. J. (2018). [abstract](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
 Effect of spatiotemporally changing environment on serial dependence in ensemble representations. Poster presentation at Vision Science Society, Tempa, FL<br>
+
+## Honors
+2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology <br>
+2019-2020	Simsan Scholarship, Sungkyunkwan University ($ 1,500) <br>
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Outstanding presenter award, from the annual meeting of the Korean Society for Cognitive & Biological Psychology <br>
+2018-2021	Institute of Basic Science Scholarship ($ 45,900) <br>
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Songcheon Scholarship ($ 2,600) <br>
+2011-2014	Yulgok Scholarship, Sungkyunkwan University ($ 7,400) <br>
