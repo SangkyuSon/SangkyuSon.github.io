@@ -3,9 +3,11 @@ layout: page
 title: CV
 ---
 # Sangkyu Son
+<pre>
 Center for Neuroscience Imaging Research, Institute for Basic Science, Republic of Korea
+Department of Biomedical Engineering, Sungkyunkwan University, Republic of Korea
 [Email](ss.sangkyu.son@gmail.com) / [Scholoar](https://scholar.google.co.kr/citations?user=NYCkQZAAAAAJ&hl=ko&oi=ao)
-
+</pre>
 
 ## Eductation
 -  <span style="color:gray">2018-2020</span> **MSE in Biomedical engineering**, <span style="color:gray">Neuroscience track</span>
