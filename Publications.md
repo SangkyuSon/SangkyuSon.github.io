@@ -16,5 +16,5 @@ Effect of spatiotemporally changing environment on serial dependence in ensemble
 **Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25550) <br> 
 Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. *Human Brain Mapping.* <br>
 
-**Son, S.** (2021). [pdf](https://dcollection.skku.edu/public_resource/pdf/000000161506_20211201123600.pdf)<br>
+**Son, S.** (2021). [pdf](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
 Distortion and compensation of astigmatism in orientation information (master’s thesis). Sungkyunkwan University, Suwon-si, South Korea. <br>
