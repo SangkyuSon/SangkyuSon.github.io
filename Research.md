@@ -9,7 +9,7 @@ title: Research topics
 - In terms of meridian-specific degradation of astigmatism, it causes feature-specific impairments, such as orientation and direction. Thus the topic can be combined with many topics in the traditional neuroscience topics, such as orientation adaptation, feature-based attention, predictive coding, perceptual learning, etc...
 - This exemplifies well how the brain involves in everyday life with clinical implications. For example, if I were to have severe astigmatism with no neural compensation, I would lose the outlines of the hydrangeas' petals (left). However, with the additional help of the brain (middle), I am now able to see the natural continuous scenes (right).
 
-![](SangkyuSon.github.io/data/astigex.png){:center}
+![](SangkyuSon.github.io/data/astigex.png){: center}
 
 - 
 - This topic grasp my interest in that 
