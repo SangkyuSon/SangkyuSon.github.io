@@ -10,7 +10,12 @@ title: Research topics
 - This exemplifies well how the brain involves in everyday life with clinical implications. For example, if I were to have severe astigmatism with no neural compensation, I would lose the outlines of the hydrangeas' petals (left). However, with the additional help of the brain (middle), I am now able to see the natural continuous scenes (right). <br> <center><img src="https://sangkyuson.github.io//data/astigex.png" width="50%" height="50%"></center>
 - Related papers: [Son, 2021](https://lib.skku.edu/suwon/en/#/search/detail/14859124), [Son et. al., 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25550), [Son, Kang, & Lee (*under review*)]()
 
-## Temporal attention governs the transmission of information flow
-- Transmission of motion direction information according to temporal expectation [read more](SangkyuSon.github.io/data/DTE.md)
+## Temporal information flow
+- Our perception is not about a static, fixed moment, but is a result of a complex interaction of multiple dimensions of time and features. Belows are related projects.
+  - Transmission of motion direction information according to temporal expectation 
+- 
+- 
+- 
+- [read more](SangkyuSon.github.io/data/DTE.md)
 - Time perception during pain [read more](SangkyuSon.github.io/data/paintime.md)
 - Serial dependence in ensemble perception [read more](SangkyuSon.github.io/data/serialdependence.md)
