@@ -11,7 +11,7 @@ Automatic compensation enhances the orientation perception in chronic astigmatis
 The effect of temporal expectation on motion direction representation of an occluded object. <br>
 
 **Son, S.**, Kwon, O, & Kim, Y. J. (*pre-print*). [[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
-Effect of spatiotemporally changing environment on serial dependence in ensemble perception. <br>
+Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
 
 **Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25550) [[code]](https://www.dropbox.com/sh/o1jg74rw3sdqx1g/AACQjgXq0TZWrCnkTM7bsgsga?dl=0) <br> 
 Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. *Human Brain Mapping.* <br>
