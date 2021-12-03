@@ -19,6 +19,6 @@ title: Research topics
 - Serial dependence in ensemble perception
   - How does the visual system balance stability against sensitivity when associating the past and the present in dynamically varying uncertainty?
   - To have temporal continuity, our visual system is biased toward the previous perception. On the other hand, to be sensitive to change in certain conditions, it is also necessary to distinguish the current preception from the previous. Previous studies have contrasted this with only different experimental conditions and have not been described in an integrated manner over successive moments.
-  - Related: [(Son et al., 2021, *preprint*)](), [(VSS2018)](https://jov.arvojournals.org/article.aspx?articleid=2699069)
+  - Related: [(Son et al., *preprint*)](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf), [(VSS2018)](https://jov.arvojournals.org/article.aspx?articleid=2699069)
 - Time encoding during pain 
   - What is the neural basis for encoding a longer duration of visual stimulation when experiencing thermal pain?
