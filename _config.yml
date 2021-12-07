@@ -27,11 +27,9 @@ plugins:
   - jekyll-coffeescript
   - jekyll-paginate
   - jekyll-gist
-
-# Analytics
+    
 analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google"
   google:
-    tracking_id          : G-6RRZLZRQTE
-    anonymize_ip         : # true, false (default)
+    tracking_id: "UA-1234567-8"
+    anonymize_ip: false # default
