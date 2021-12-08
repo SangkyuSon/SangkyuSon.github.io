@@ -39,4 +39,3 @@ Contact: <ss.sangkyu.son@gmail.com>
 - <span style="color:gray">Fall 2020	Introductory biomedical engineering lab, Sungkyunkwan University</span>
 - <span style="color:gray">Fall 2019	Cognitive science in biomedical engineering, Sungkyunkwan University</span>
 - <span style="color:gray">Spring 2019	Bioprograming and machine learning, Sungkyunkwan University </span>
--
