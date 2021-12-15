@@ -28,6 +28,7 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
 ## Honors
+- <span style="color:gray"> 2021</span>	Best paper award, <span style="color:gray">Center for Neuroscience Imaging Research </span>
 - <span style="color:gray"> 2021</span>	Outstanding presenter award, <span style="color:gray">from the annual meeting of the Korean Society for Cognitive & Biological Psychology </span>
 - <span style="color:gray">2019-2020</span>	Simsan Scholarship, <span style="color:gray">Sungkyunkwan University ($ 1,500) </span>
 - <span style="color:gray">2019</span>	Outstanding presenter award, <span style="color:gray">from the annual meeting of the Korean Society for Cognitive & Biological Psychology </span>
