@@ -4,7 +4,7 @@ title: Publications
 ---
 \* indicates equal contributions
 
-**Son, S.**, Kang, H., & Lee, J. (*in revision*). <br>
+**Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in revision*). <br>
 Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
 
 **Son, S.\***, Moon, J.\*, & Lee, J. (*in prep.*). <br>
