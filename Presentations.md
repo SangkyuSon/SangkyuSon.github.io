@@ -4,6 +4,10 @@ title: Presentations
 ---
 
 ## Conference
+
+**Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). [[pdf]]() <br>
+Automatic adjustment of the neural orientation space in astigmatic vision. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, online<br>
+
 **Son, S.**, Moon, J., & Lee, J. (2021). [[video]](https://www.youtube.com/watch?v=za12HqT5_gA) <br>
 The effect of temporal expectation on motion direction representation of an occluded object. Poster presentation at Society for Neuroscience, online<br>
 
