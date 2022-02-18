@@ -14,7 +14,9 @@ The effect of temporal expectation on motion direction representation of an occl
 Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
 
 **Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25550) [[code]](https://www.dropbox.com/sh/o1jg74rw3sdqx1g/AACQjgXq0TZWrCnkTM7bsgsga?dl=0) <br> 
-Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. *Human Brain Mapping.* <br>
+Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
+*Human Brain Mapping.* <br>
 
 **Son, S.** (2021). [[pdf]](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
-Distortion and compensation of astigmatism in orientation information (master’s thesis). Sungkyunkwan University, Suwon-si, South Korea. <br>
+Distortion and compensation of astigmatism in orientation information (master’s thesis). <br>
+*Sungkyunkwan University* <br>
