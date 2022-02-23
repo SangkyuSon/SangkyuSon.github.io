@@ -27,9 +27,9 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Department of Psychology, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
-## Publications ![](./Publications.md)
+## [Publications](./Publications.md)
 
-## Presentations ![](./Presentations.md)
+## [Presentations](./Presentations.md)
 
 ## Honors
 - <span style="color:gray"> 2021</span>	Best paper award of the year, <span style="color:gray">Center for Neuroscience Imaging Research </span>
