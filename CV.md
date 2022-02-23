@@ -27,7 +27,7 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Department of Psychology, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
-## [Publications](./Publications.md)
+## Publications ###[link](./Publications.md)
 
 ## [Presentations](./Presentations.md)
 
