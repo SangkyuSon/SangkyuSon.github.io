@@ -4,8 +4,9 @@ title: Publications
 ---
 \* indicates equal contributions
 
-**Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in revision*). <br>
+**Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in press*). <br>
 Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
+*Scientific Reports* <br>
 
 **Son, S.\***, Moon, J.\*, & Lee, J. (*in prep.*). <br>
 The effect of temporal expectation on motion direction representation of an occluded object. <br>
