@@ -4,7 +4,7 @@ title: Publications
 ---
 \* indicates equal contributions
 
-
+***
 ### In prep.
 
 **Son, S.\***, Moon, J.\*, & Lee, J. (*in prep.*). <br>
@@ -14,6 +14,7 @@ The effect of temporal expectation on motion direction representation of an occl
 [[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
 Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
 
+***
 ### Published
 
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). 
