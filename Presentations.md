@@ -5,6 +5,9 @@ title: Presentations
 
 ## Conference
 
+**Son, S.**, Kang, H., & Lee, J. (2022). [[video]](https://youtu.be/iO4vFkADv6E) <br>
+Automatic adjustment of the neural orientation space in astigmatic vision. virtual-VSS 2022, online<br>
+
 **Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). [[ppt]](./data/kscbp2022.pdf) <br>
 Automatic adjustment of the neural orientation space in astigmatic vision. Oral presentation at the annual meeting of the Korean Society for Cognitive & Biological Psychology, online<br>
 
