@@ -7,8 +7,11 @@ title: Publications
 ***
 ### In prep.
 
-**Son, S.\***, Moon, J.\*, & Lee, J. (*in prep.*). <br>
-The effect of temporal expectation on motion direction representation of an occluded object. <br>
+**Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in prep.*). <br>
+The brain optimizes perception in astigmatism through compensatory gain modulation <br>
+
+**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*in prep.*). <br>
+Frontal-to-visual information flow explains predictive motion tracking. <br>
 
 **Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (*pre-print*). 
 [[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
