@@ -7,6 +7,7 @@ Department of Biomedical Engineering, Sungkyunkwan University, Republic of Korea
 Contact: <ss.sangkyu.son@gmail.com>
 
 ## Eductation
+-  <span style="color:gray">2022-present</span> **Ph.D in Biomedical engineering**, <span style="color:gray">Neuroscience track, Sungkyunkwan University</span>
 -  <span style="color:gray">2018-2020</span> **MSE in Biomedical engineering**, <span style="color:gray">Neuroscience track, Sungkyunkwan University</span>
 -  <span style="color:gray">2011-2014</span> **BA in Psychology & Philosophy**, <span style="color:gray">*magna cum laude*, Sungkyunkwan University</span>
 
