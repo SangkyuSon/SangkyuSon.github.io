@@ -15,7 +15,7 @@ The brain optimizes perception in astigmatism through compensatory gain modulati
 **Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*in prep.*). <br>
 Frontal-to-visual information flow explains predictive motion tracking. <br>
 
-**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (*pre-print*). 
+**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). 
 [[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
 Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
 
