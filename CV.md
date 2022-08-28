@@ -11,11 +11,15 @@ Contact: <ss.sangkyu.son@gmail.com>
 -  <span style="color:gray">2011-2014</span> **BA in Psychology & Philosophy**, <span style="color:gray">*magna cum laude*, Sungkyunkwan University</span>
 
 ## Positions
-- <span style="color:gray">2021-present</span> **Post-master researcher** <br> 
+- <span style="color:gray">2022-present</span> **Ph.D** <br> 
+<span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
+<span style="color:gray">Advisor: [Seng Bum Michael Yoo](https://myoolab.com/)</span>
+
+- <span style="color:gray">2021-2022</span> **Researcher** <br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
 <span style="color:gray">Advisor: [Joonyeol Lee](https://semoconlab.com/)</span>
 
-- <span style="color:gray">2018-2020</span> **Master's student**<br> 
+- <span style="color:gray">2018-2020</span> **M.A.**<br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span> <br> 
 <span style="color:gray">Advisor: [Joonyeol Lee](https://semoconlab.com/) & [Yee-Joon Kim](https://centers.ibs.re.kr/html/glia_en/people/people_0203.html)</span>
 
@@ -23,8 +27,8 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Center for Cognition and Sociality, Institute for Basic Science</span> <br> 
 <span style="color:gray">Advisor: [Yee-Joon Kim](https://centers.ibs.re.kr/html/glia_en/people/people_0203.html)</span>
 
-- <span style="color:gray">2014</span> **Undergraduate research assistant** <br> 
-<span style="color:gray">Department of Psychology, Sungkyunkwan University</span> <br> 
+- <span style="color:gray">2014</span> **B.A.** <br> 
+<span style="color:gray">Department of Psychology & Department of Philosophy, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
 ## Publications
