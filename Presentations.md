@@ -5,6 +5,9 @@ title: Presentations
 
 ## Conference
 
+**Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). [[video]](https://youtu.be/1we8NadNxqU) <br>
+The brain optimizes perception in astigmatism through compensatory gain modulation by Sangkyu Son. SfN 2022, in-person<br>
+
 **Son, S.**, Kang, H., & Lee, J. (2022). [[video]](https://youtu.be/iO4vFkADv6E) <br>
 Automatic adjustment of the neural orientation space in astigmatic vision. virtual-VSS 2022, online<br>
 
@@ -23,3 +26,7 @@ Serial dependence in ensemble representations under spatiotemporally changing en
 **Son. S.**, & Kim, Y. J. (2018). [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
 Effect of spatiotemporally changing environment on serial dependence in ensemble representations. Poster presentation at Vision Science Society, Tempa, FL<br>
 
+## Invited Talk
+
+**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2022). <br>
+The neural basis of state-dependent goal navigation. University of Minnesota, 2022, in-person<br>
