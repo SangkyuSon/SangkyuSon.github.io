@@ -35,16 +35,18 @@ Contact: <ss.sangkyu.son@gmail.com>
 ## Publications 
 [(see in details)](./Publications.md)
 
-**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*Under revision.*). Frontal-to-visual information flow explains predictive motion tracking. <br>
-
-*bioRxiv* <br>
-**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
-
 *Scientific Reports* <br>
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
 
 *Human Brain Mapping.* <br>
 **Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
+
+***
+
+**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*Under revision.*). Frontal-to-visual information flow explains predictive motion tracking. <br>
+
+*bioRxiv* <br>
+**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
 
 ## Presentations 
 [(see in details)](./Presentations.md)
