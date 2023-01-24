@@ -8,7 +8,6 @@ title: Publications
 ### In prep.
 
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in prep.*). 
-[[code]](https://www.dropbox.com/sh/deyj5j6g4t5gmt4/AACRYR_T61edemU_48l8d03ta?dl=0)
 <br>
 The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
 
