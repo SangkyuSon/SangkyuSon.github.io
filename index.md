@@ -6,8 +6,11 @@ title: Home
 
 # <center> <span style="color:rgb(10,59,118)"> Sangkyu Son </span></center> 
 ## <center> A Ph.D. student </center> 
-## <center> Naturalistic behavior, Monkey electrophysiology, Human EEG </center>
 <center> 
+  Investigating on: <br>
+  Naturalistic behavior, Monkey electrophysiology, Human EEG <br>
+  <br>
+  Currently at: <br>
   Biomdeical Engineering (BME), SKKU, Republic of Korea <br>
   Center for Neuroscience Imaging Research (CNIR), IBS, Republic of Korea<br>  
 </center>
