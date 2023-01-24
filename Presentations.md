@@ -23,5 +23,6 @@ Title: Effect of spatiotemporally changing environment on serial dependence in e
 
 ## Invited Talk
 
+University of Minnesota, 2022 <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2022). <br>
-Title: The neural basis of state-dependent goal navigation. University of Minnesota, 2022, in-person<br>
+Title: The neural basis of state-dependent goal navigation. <br>
