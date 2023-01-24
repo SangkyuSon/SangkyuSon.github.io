@@ -49,8 +49,6 @@ Contact: <ss.sangkyu.son@gmail.com>
 ## Presentations 
 [(see in details)](./Presentations.md)
 
-### Conference
-
 SfN 2022, poster <br>
 **Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). Title: The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
 
@@ -63,9 +61,8 @@ SfN 2021, poster <br>
 VSS 2018, poster <br>
 **Son. S.**, & Kim, Y. J. (2018). Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
 
-### Invited Talk
-
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2022). Title: The neural basis of state-dependent goal navigation. University of Minnesota, 2022, in-person<br>
+University of Minnesota, 2022, <br>
+**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2022). Title: The neural basis of state-dependent goal navigation. <br>
 
 ## Honors
 - <span style="color:gray"> 2021</span>	Best paper award of the year, <span style="color:gray">Center for Neuroscience Imaging Research </span>
