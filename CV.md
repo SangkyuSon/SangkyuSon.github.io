@@ -32,7 +32,8 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Department of Psychology & Department of Philosophy, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
-## Publications [see details](./Publications.md)
+## Publications 
+[see details here](./Publications.md)
 
 **Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*Under revision.*). Frontal-to-visual information flow explains predictive motion tracking. <br>
 
