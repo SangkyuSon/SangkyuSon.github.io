@@ -33,7 +33,6 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
 ## Publications 
-[see details here](./Publications.md)
 
 **Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*Under revision.*). Frontal-to-visual information flow explains predictive motion tracking. <br>
 
@@ -45,6 +44,8 @@ Contact: <ss.sangkyu.son@gmail.com>
 
 **Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
 *Human Brain Mapping.* <br>
+
+[see details here](./Publications.md)
 
 ## Presentations
 [link](./Presentations.md)
