@@ -32,7 +32,8 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Department of Psychology & Department of Philosophy, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
-## Publications [(details are here)](./Publications.md)
+## Publications 
+[(see in details)](./Publications.md)
 
 **Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*Under revision.*). Frontal-to-visual information flow explains predictive motion tracking. <br>
 
@@ -45,9 +46,10 @@ Contact: <ss.sangkyu.son@gmail.com>
 **Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
 *Human Brain Mapping.* <br>
 
-## Presentations [(details are here](./Presentations.md)
+## Presentations 
+[(see in details)](./Presentations.md)
 
-##### Conference
+### Conference
 
 SfN 2022, poster <br>
 **Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). Title: The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
@@ -61,7 +63,7 @@ SfN 2021, poster <br>
 VSS 2018, poster <br>
 **Son. S.**, & Kim, Y. J. (2018). Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
 
-#### Invited Talk
+### Invited Talk
 
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2022). Title: The neural basis of state-dependent goal navigation. University of Minnesota, 2022, in-person<br>
 
