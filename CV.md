@@ -32,8 +32,18 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Department of Psychology & Department of Philosophy, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
 
-## Publications
-[link](./Publications.md)
+## Publications [see details](./Publications.md)
+
+**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*Under revision.*). Frontal-to-visual information flow explains predictive motion tracking. <br>
+
+**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+*bioRxiv* <br>
+
+**Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
+*Scientific Reports* <br>
+
+**Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
+*Human Brain Mapping.* <br>
 
 ## Presentations
 [link](./Presentations.md)
