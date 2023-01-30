@@ -3,6 +3,8 @@ layout: page
 title: Presentations
 ---
 
+***
+
 ## Conference
 
 SfN 2022, poster <br>
@@ -20,6 +22,8 @@ Title: The effect of temporal expectation on motion direction representation of 
 VSS 2018, poster <br>
 **Son. S.**, & Kim, Y. J. (2018). [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
 Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+
+***
 
 ## Invited Talk
 
