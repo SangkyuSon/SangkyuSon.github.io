@@ -32,9 +32,16 @@ Contact: <ss.sangkyu.son@gmail.com>
 - <span style="color:gray">2014</span> **Research assistant** <br> 
 <span style="color:gray">Department of Psychology & Department of Philosophy, Sungkyunkwan University</span> <br> 
 <span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
+
 ***
+
 ## Publications 
 [(see in details)](./Publications.md)
+
+***
+
+*NeuroImage* <br>
+**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2021). Frontal-to-visual information flow explains predictive motion tracking. <br>
 
 *Scientific Reports* <br>
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
@@ -44,11 +51,11 @@ Contact: <ss.sangkyu.son@gmail.com>
 
 ***
 
-**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (*Under revision.*). Frontal-to-visual information flow explains predictive motion tracking. <br>
-
 *bioRxiv* <br>
 **Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+
 ***
+
 ## Presentations 
 [(see in details)](./Presentations.md)
 
@@ -66,7 +73,9 @@ SfN 2021, poster <br>
 
 VSS 2018, poster <br>
 **Son. S.**, & Kim, Y. J. (2018). Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+
 ***
+
 ## Honors
 - <span style="color:gray"> 2021, 2022 </span>	Best paper award of the year, <span style="color:gray">Center for Neuroscience Imaging Research </span>
 - <span style="color:gray">2019-2020</span>	Simsan Scholarship, <span style="color:gray">Sungkyunkwan University ($ 1,500) </span>
@@ -74,7 +83,9 @@ VSS 2018, poster <br>
 - <span style="color:gray">2018-2021</span>	Institute of Basic Science Scholarship <span style="color:gray">($ 45,900) </span>
 - <span style="color:gray">2014</span>	Songcheon Scholarship <span style="color:gray">($ 2,600) </span>
 - <span style="color:gray">2011-2014 </span>	Yulgok Scholarship, Sungkyunkwan University <span style="color:gray">($ 7,400) </span>
+
 ***
+
 ## Teaching
 - <span style="color:gray">Fall 2020	Introductory biomedical engineering lab, Sungkyunkwan University</span>
 - <span style="color:gray">Fall 2019	Cognitive science in biomedical engineering, Sungkyunkwan University</span>
