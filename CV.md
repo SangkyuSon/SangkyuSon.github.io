@@ -41,7 +41,7 @@ Contact: <ss.sangkyu.son@gmail.com>
 ***
 
 *NeuroImage* <br>
-**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2021). Frontal-to-visual information flow explains predictive motion tracking. <br>
+**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). Frontal-to-visual information flow explains predictive motion tracking. <br>
 
 *Scientific Reports* <br>
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
