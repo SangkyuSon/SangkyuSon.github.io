@@ -11,7 +11,9 @@ Contact: <ss.sangkyu.son@gmail.com>
 -  <span style="color:gray">2022-present</span> **Ph.D in Biomedical engineering**, <span style="color:gray">Neuroscience track, Sungkyunkwan University</span>
 -  <span style="color:gray">2018-2020</span> **M.S.E. in Biomedical engineering**, <span style="color:gray">Neuroscience track, Sungkyunkwan University</span>
 -  <span style="color:gray">2011-2014</span> **B.A. in Psychology & Philosophy**, <span style="color:gray">*magna cum laude*, Sungkyunkwan University</span>
+
 ***
+
 ## Positions
 - <span style="color:gray">2022-present</span> **Ph.D** <br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
