@@ -19,7 +19,7 @@ Effect of spatiotemporally changing environment on serial dependence in ensemble
 ### Published
 
 **Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). 
-[[pdf]](https://reader.elsevier.com/reader/sd/pii/S1053811923000629?token=ED2DDFA29D5C79BC8717CC948421FB4216EE07110F70E2476DD4010D9263426908E7BDB35A4B82EF4CA68EE4DE4656A7&originRegion=us-east-1&originCreation=20230206143315)
+[[pdf]](https://doi.org/10.1016/j.neuroimage.2023.119914)
 [[code]](https://www.dropbox.com/sh/deyj5j6g4t5gmt4/AACRYR_T61edemU_48l8d03ta?dl=0)
 <br>
 Frontal-to-visual information flow explains predictive motion tracking. <br>
