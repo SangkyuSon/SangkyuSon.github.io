@@ -7,6 +7,10 @@ title: Publications
 ***
 ### In prep.
 
+**Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (*in prep.*). 
+<br>
+State-dependent online reactivation supports learning strategies in virtual foraging. <br>
+
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in prep.*). 
 <br>
 The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
