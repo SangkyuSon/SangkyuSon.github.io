@@ -56,9 +56,6 @@ Contact: <ss.sangkyu.son@gmail.com>
 *bioRxiv* <br>
 **Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <be>
 
-*In prep* <br>
-**Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (*in-prep*). State-dependent online reactivation supports learning strategies in virtual foraging <br>
-
 ***
 
 ## Presentations 
