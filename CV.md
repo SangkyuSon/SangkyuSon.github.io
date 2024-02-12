@@ -54,7 +54,10 @@ Contact: <ss.sangkyu.son@gmail.com>
 ***
 
 *bioRxiv* <br>
-**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <be>
+
+*In prep* <br>
+**Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (*in-prep*). State-dependent online reactivation supports learning strategies in virtual foraging <br>
 
 ***
 
@@ -79,6 +82,7 @@ VSS 2018, poster <br>
 ***
 
 ## Honors
+- <span style="color:gray"> 2023 </span>	Best poster award of the year, <span style="color:gray">Center for Neuroscience Imaging Research </span>
 - <span style="color:gray"> 2021, 2022 </span>	Best paper award of the year, <span style="color:gray">Center for Neuroscience Imaging Research </span>
 - <span style="color:gray">2019-2020</span>	Simsan Scholarship, <span style="color:gray">Sungkyunkwan University ($ 1,500) </span>
 - <span style="color:gray">2019, 2021</span>	Outstanding presenter award, <span style="color:gray">from the annual meeting of the Korean Society for Cognitive & Biological Psychology </span>
@@ -89,6 +93,7 @@ VSS 2018, poster <br>
 ***
 
 ## Teaching
+- <span style="color:gray">Fall 2023	Neuroscience Seminar, Sungkyunkwan University</span>
 - <span style="color:gray">Fall 2020	Introductory biomedical engineering lab, Sungkyunkwan University</span>
 - <span style="color:gray">Fall 2019	Cognitive science in biomedical engineering, Sungkyunkwan University</span>
 - <span style="color:gray">Spring 2019	Bioprograming and machine learning, Sungkyunkwan University </span>
