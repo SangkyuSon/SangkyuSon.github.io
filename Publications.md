@@ -10,6 +10,7 @@ title: Publications
 **Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (*in prep.*). 
 <br>
 State-dependent online reactivation supports learning strategies in virtual foraging. <br>
+[[code]](https://github.com/SangkyuSon/VRmaze)  <br> 
 
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in prep.*). 
 <br>
