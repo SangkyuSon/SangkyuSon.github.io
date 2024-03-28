@@ -54,6 +54,9 @@ Contact: <ss.sangkyu.son@gmail.com>
 ***
 
 *bioRxiv* <br>
+**Son, S.**, Wang, M., Hayden, B., & Yoo, SBM (2024, *pre-print*). State-dependent Online Reactivations for Different Learning Strategies in Foraging. <be>
+
+*bioRxiv* <br>
 **Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <be>
 
 ***
