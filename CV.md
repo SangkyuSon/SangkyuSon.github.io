@@ -41,6 +41,8 @@ Contact: <ss.sangkyu.son@gmail.com>
 [(see in details)](./Publications.md)
 
 ***
+*Neuron* <br>
+Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <be>
 
 *NeuroImage* <br>
 **Son, S.**, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). Frontal-to-visual information flow explains predictive motion tracking. <br>
@@ -50,10 +52,6 @@ Contact: <ss.sangkyu.son@gmail.com>
 
 *Human Brain Mapping* <br>
 **Son, S.**, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
-
-*Neuron* <be>
-Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <br>
-
 
 ***
 
