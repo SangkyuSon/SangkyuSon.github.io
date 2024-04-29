@@ -22,6 +22,10 @@ Effect of spatiotemporally changing environment on serial dependence in ensemble
 ***
 ### Published
 
+Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). <br>
+Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <br>
+*Neuron* <br>
+
 **Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). 
 [[pdf]](https://doi.org/10.1016/j.neuroimage.2023.119914)
 [[code]](https://www.dropbox.com/sh/deyj5j6g4t5gmt4/AACRYR_T61edemU_48l8d03ta?dl=0)
