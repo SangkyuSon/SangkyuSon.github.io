@@ -43,13 +43,13 @@ Contact: <ss.sangkyu.son@gmail.com>
 ***
 
 *NeuroImage* <br>
-**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). Frontal-to-visual information flow explains predictive motion tracking. <br>
+**Son, S.**, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). Frontal-to-visual information flow explains predictive motion tracking. <br>
 
 *Scientific Reports* <br>
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
 
 *Human Brain Mapping* <br>
-**Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
+**Son, S.**, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
 
 *Neuron* <be>
 Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <br>
