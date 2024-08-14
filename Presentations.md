@@ -8,10 +8,12 @@ title: Presentations
 ## Conference
 
 CCN 2024, poster <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
+**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). <br>
+Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
 
 Gordon-Frontal cortex 2024, poster <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Change of Initial Decision by Re-evaluation for Optimal Navigation <br>
+**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). <br>
+Title: Change of Initial Decision by Re-evaluation for Optimal Navigation <br>
 
 SfN 2022, poster <br>
 **Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). [[video]](https://youtu.be/1we8NadNxqU) <br>
