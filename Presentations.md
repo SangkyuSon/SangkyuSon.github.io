@@ -7,6 +7,12 @@ title: Presentations
 
 ## Conference
 
+CCN 2024, poster <br>
+**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
+
+Gordon-Frontal cortex 2024, poster <br>
+**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Change of Initial Decision by Re-evaluation for Optimal Navigation <br>
+
 SfN 2022, poster <br>
 **Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). [[video]](https://youtu.be/1we8NadNxqU) <br>
 Title: The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
@@ -22,11 +28,3 @@ Title: The effect of temporal expectation on motion direction representation of 
 VSS 2018, poster <br>
 **Son. S.**, & Kim, Y. J. (2018). [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) <br>
 Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
-
-***
-
-## Invited Talk
-
-University of Minnesota, 2022 <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2022). <br>
-Title: The neural basis of state-dependent goal navigation. <br>
