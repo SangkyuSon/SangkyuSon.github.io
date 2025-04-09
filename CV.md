@@ -66,6 +66,9 @@ Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalam
 ## Presentations 
 [(see in details)](./Presentations.md)
 
+COSYNE 2025, poster <br>
+**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2025). Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtual Foraging. <br>
+
 CCN 2024, poster <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
 
