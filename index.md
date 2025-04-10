@@ -13,6 +13,7 @@ title: Home
   <br>
   using: <br>
   Human single-cell recording, Monkey electrophysiology, and Human scalp EEG <br>
+  <br>
   with perspectives: <br>
   Dynamical system, Energy landscape, Ethogramming, and Neural network modeling <br>
   <br>
