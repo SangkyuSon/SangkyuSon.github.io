@@ -9,13 +9,13 @@ title: Home
 <center> 
   <br>
   Investigating on: <br>
-  Naturalistic behavior, Social interaction, Spatial navigation, Sequence encoding, and Visual impairment <br>
+  Social interaction, Spatial navigation, and Sequence encoding <br>
   <br>
   using: <br>
-  Human single-cell recording, Monkey electrophysiology, and Human scalp EEG <br>
+  Human/monkey single-cell recording <br>
   <br>
-  with perspectives: <br>
-  Dynamical system, Energy landscape, Ethogramming, and Neural network modeling <br>
+  with perspectives of: <br>
+  Dynamical system, Ethogramming, and ANN <br>
   <br>
   Currently at: <br>
   Biomedical Engineering (BME), SKKU, Republic of Korea <br>
