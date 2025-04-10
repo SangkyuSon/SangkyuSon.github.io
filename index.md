@@ -9,7 +9,12 @@ title: Home
 <center> 
   <br>
   Investigating on: <br>
-  Naturalistic behavior, Monkey electrophysiology, Human EEG <br>
+  Naturalistic behavior, Social interaction, Spatial navigation, Sequence encoding, and Visual impairment <br>
+  <br>
+  using: <br>
+  Human single-cell recording, Monkey electrophysiology, and Human scalp EEG <br>
+  with perspectives: <br>
+  Dynamical system, Energy landscape, Ethogramming, and Neural network modeling <br>
   <br>
   Currently at: <br>
   Biomedical Engineering (BME), SKKU, Republic of Korea <br>
