@@ -56,6 +56,9 @@ Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalam
 ***
 
 *bioRxiv* <br>
+**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025, *pre-print*). Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <be>
+
+*bioRxiv* <br>
 **Son, S.**, Wang, M., Hayden, B., & Yoo, SBM (2024, *pre-print*). State-dependent Online Reactivations for Different Learning Strategies in Foraging. <be>
 
 *bioRxiv* <br>
