@@ -39,15 +39,15 @@ Distortion and compensation of astigmatism in orientation information (master’
 
 ### Pre-prints
 
+**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025, *pre-print*). 
+[[pdf]]()
+[[code]](https://github.com/SangkyuSon/astigEEG)  <br> 
+Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <br>
+
 **Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (2024, *pre-print*). 
 [[pdf]](https://www.biorxiv.org/content/10.1101/2024.03.25.586512v1)
 [[code]](https://github.com/SangkyuSon/VRmaze)  <br> 
 State-dependent Online Reactivations for Different Learning Strategies in Foraging.
-
-**Son, S.**, Shim, WM, Kang, H., & Lee, J. (2025, *pre-print*). 
-[[pdf]]()
-[[code]](https://github.com/SangkyuSon/astigEEG)  <br> 
-Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <br>
 
 **Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). 
 [[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
