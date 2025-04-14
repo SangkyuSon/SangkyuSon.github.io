@@ -5,21 +5,6 @@ title: Publications
 \* indicates equal contributions
 
 ***
-### In prep.
-
-**Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (2024, *pre-print*). 
-[[pdf]](https://www.biorxiv.org/content/10.1101/2024.03.25.586512v1)
-[[code]](https://github.com/SangkyuSon/VRmaze)  <br> 
-State-dependent Online Reactivations for Different Learning Strategies in Foraging.
-
-**Son, S.**, Shim, WM, Kang, H., & Lee, J. (*in prep.*). <br>
-The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
-
-**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). 
-[[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
-Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
-
-***
 ### Published
 
 Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). <br>
@@ -49,3 +34,23 @@ Induced astigmatism biases the orientation information represented in multivaria
 [[pdf]](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
 Distortion and compensation of astigmatism in orientation information (master’s thesis). <br>
 *Sungkyunkwan University* <br>
+
+***
+
+### Pre-prints
+
+**Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (2024, *pre-print*). 
+[[pdf]](https://www.biorxiv.org/content/10.1101/2024.03.25.586512v1)
+[[code]](https://github.com/SangkyuSon/VRmaze)  <br> 
+State-dependent Online Reactivations for Different Learning Strategies in Foraging.
+
+**Son, S.**, Shim, WM, Kang, H., & Lee, J. (2025, *pre-print*). 
+[[pdf]]()
+[[code]](https://github.com/SangkyuSon/astigEEG)  <br> 
+Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <br>
+
+**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). 
+[[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
+Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble Representations. <br>
+
+***
