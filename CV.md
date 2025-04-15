@@ -25,15 +25,7 @@ Contact: <ss.sangkyu.son@gmail.com>
 
 - <span style="color:gray">2018-2020</span> **M.S.E.**<br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span> <br> 
-<span style="color:gray">Advisor: [Joonyeol Lee](https://semoconlab.com/) & [Yee-Joon Kim](https://centers.ibs.re.kr/html/glia_en/people/people_0203.html)</span>
-
-- <span style="color:gray">2017-2018</span> **Research assistant** <br> 
-<span style="color:gray">Center for Cognition and Sociality, Institute for Basic Science</span> <br> 
-<span style="color:gray">Advisor: [Yee-Joon Kim](https://centers.ibs.re.kr/html/glia_en/people/people_0203.html)</span>
-
-- <span style="color:gray">2014</span> **Research assistant** <br> 
-<span style="color:gray">Department of Psychology & Department of Philosophy, Sungkyunkwan University</span> <br> 
-<span style="color:gray">Advisor: [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab)</span>
+<span style="color:gray">Advisor: [Joonyeol Lee](https://semoconlab.com/)</span>
 
 ***
 
