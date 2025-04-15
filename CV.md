@@ -15,7 +15,7 @@ Contact: <ss.sangkyu.son@gmail.com>
 ***
 
 ## Positions
-- <span style="color:gray">2022-present</span> **Ph.D** <br> 
+- <span style="color:gray">2022-present</span> **Ph.D student** <br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
 <span style="color:gray">Advisor: [Seng Bum Michael Yoo](https://myoolab.com/)</span>
 
