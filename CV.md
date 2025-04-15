@@ -63,7 +63,7 @@ COSYNE 2025, poster <br>
 CCN 2024, poster <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
 
-Gordon-Frontal cortex 2024, poster **This work received "Early Career Award - the GRC Frontal Cortex"** <br>
+Gordon-Frontal cortex 2024, poster ***This work received "Early Career Award - the GRC Frontal Cortex"** <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Change of Initial Decision by Re-evaluation for Optimal Navigation <br>
 
 SfN 2022, poster <br>
