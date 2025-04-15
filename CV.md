@@ -19,11 +19,7 @@ Contact: <ss.sangkyu.son@gmail.com>
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
 <span style="color:gray">Advisor: [Seng Bum Michael Yoo](https://myoolab.com/)</span>
 
-- <span style="color:gray">2021-2022</span> **Researcher** <br> 
-<span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
-<span style="color:gray">Advisor: [Joonyeol Lee](https://semoconlab.com/)</span>
-
-- <span style="color:gray">2018-2020</span> **M.S.E.**<br> 
+- <span style="color:gray">2018-2020</span> **M.S.E.** / <span style="color:gray">2021-2022</span> **Researcher**<br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span> <br> 
 <span style="color:gray">Advisor: [Joonyeol Lee](https://semoconlab.com/)</span>
 
