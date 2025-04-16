@@ -5,7 +5,7 @@ title: Publications
 \* indicates equal contributions
 
 ***
-### Published
+### Peer-reviewed
 
 Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). <br>
 Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <br>
