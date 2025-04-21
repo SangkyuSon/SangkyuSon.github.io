@@ -40,7 +40,7 @@ Distortion and compensation of astigmatism in orientation information (master’
 ### Pre-prints
 
 **Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025, *pre-print*). 
-[[pdf]]()
+[[pdf]](https://www.biorxiv.org/content/10.1101/2025.04.13.648557v1)
 [[code]](https://github.com/SangkyuSon/astigEEG)  <br> 
 Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <br>
 
