@@ -30,11 +30,6 @@ Automatic compensation enhances the orientation perception in chronic astigmatis
 Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
 *Human Brain Mapping.* <br>
 
-**Son, S.** (2021). 
-[[pdf]](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
-Distortion and compensation of astigmatism in orientation information (master’s thesis). <br>
-*Sungkyunkwan University* <br>
-
 ***
 
 ### Pre-prints
@@ -53,4 +48,10 @@ State-dependent Online Reactivations for Different Learning Strategies in Foragi
 [[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
 Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble Representations. <br>
 
+***
+### Thesis
+**Son, S.** (2021). 
+[[pdf]](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
+Distortion and compensation of astigmatism in orientation information (master’s thesis). <br>
+*Sungkyunkwan University* <br>
 ***
