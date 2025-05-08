@@ -8,7 +8,9 @@ title: Publications
 ### Peer-reviewed
 
 Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). <br>
-Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <br>
+Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. 
+[[pdf]](https://www.cell.com/neuron/fulltext/S0896-6273(24)00236-8)
+<br>
 *Neuron* <br>
 
 **Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). 
@@ -19,8 +21,8 @@ Frontal-to-visual information flow explains predictive motion tracking. <br>
 *NeuroImage* <br>
 
 **Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). 
-[[pdf]](https://www.nature.com/articles/s41598-022-07788-y.pdf) 
-[[code]]()<br>
+[[pdf]](https://www.nature.com/articles/s41598-022-07788-y) 
+<br>
 Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
 *Scientific Reports* <br>
 
@@ -45,7 +47,7 @@ Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Op
 State-dependent Online Reactivations for Different Learning Strategies in Foraging.
 
 **Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). 
-[[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full.pdf) <br> 
+[[pdf]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full) <br> 
 Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble Representations. <br>
 
 ***
