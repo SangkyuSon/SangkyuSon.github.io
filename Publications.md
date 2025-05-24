@@ -13,7 +13,7 @@ Hypothalamic neuronal activation in non-human primates drives naturalistic goal-
 <br>
 *Neuron* <br>
 
-**Son, S.\***, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). 
+**Son, S.**, Moon, J., Kim, Y. J., Kang, MS, & Lee, J. (2023). 
 [[pdf]](https://doi.org/10.1016/j.neuroimage.2023.119914)
 [[code]](https://www.dropbox.com/sh/deyj5j6g4t5gmt4/AACRYR_T61edemU_48l8d03ta?dl=0)
 <br>
@@ -26,7 +26,7 @@ Frontal-to-visual information flow explains predictive motion tracking. <br>
 Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
 *Scientific Reports* <br>
 
-**Son, S.\***, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). 
+**Son, S.**, Moon, J., Kang, H., Kim, Y. J., & Lee, J. (2021). 
 [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25550) 
 [[code]](https://www.dropbox.com/sh/o1jg74rw3sdqx1g/AACQjgXq0TZWrCnkTM7bsgsga?dl=0) <br> 
 Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
@@ -56,4 +56,5 @@ Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble
 [[pdf]](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
 Distortion and compensation of astigmatism in orientation information (master’s thesis). <br>
 *Sungkyunkwan University* <br>
+
 ***
