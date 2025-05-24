@@ -7,10 +7,6 @@ title: Sangkyu Son
 <a href="https://docs.google.com/document/d/1H10sz6AdZ5Bdi0K4TSeXjk0SxO0lBla3uLZChSbK72g/edit?usp=sharing">show CV in pdf</a>
 </div>
 
-<div align="right">
-[show this in pdf]()
-</div>
-
 <br>
 Center for Neuroscience Imaging Research (CNIR), Institute for Basic Science (IBS), Republic of Korea <br>
 Department of Biomedical Engineering, Sungkyunkwan University, Republic of Korea<br>
