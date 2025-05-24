@@ -4,7 +4,11 @@ title: Sangkyu Son
 ---
 
 <div align="right">
-[show this in pdf](https://docs.google.com/document/d/1H10sz6AdZ5Bdi0K4TSeXjk0SxO0lBla3uLZChSbK72g/edit?usp=sharing)
+<a href="https://docs.google.com/document/d/1H10sz6AdZ5Bdi0K4TSeXjk0SxO0lBla3uLZChSbK72g/edit?usp=sharing">show CV in pdf</a>
+</div>
+
+<div align="right">
+[show this in pdf]()
 </div>
 
 <br>
