@@ -63,6 +63,10 @@ Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalam
 ## Presentations 
 [(see in details)](./Presentations.md)
 
+CCN 2025, poster <br>
+**Son, S.** & Yoo, SBM. (2025). Title: Where you look in the past biases your social inference. <br>
+***This work received "Travel award"** <br>
+
 COSYNE 2025, poster <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2025). Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtual Foraging. <br>
 
@@ -91,6 +95,7 @@ VSS 2018, poster <br>
 ***
 
 ## Honors
+- <span style="color:gray"> 2025 </span>	Travel Award, <span style="color:gray">CCN DEI ($ 500) </span>
 - <span style="color:gray"> 2024 </span>	Early Career Award, <span style="color:gray">the GRC Frontal Cortex ($ 500) </span>
 - <span style="color:gray"> 2023, 2024 </span>	Best poster award of the year, <span style="color:gray">Center for Neuroscience Imaging Research </span>
 - <span style="color:gray"> 2021, 2022 </span>	Best paper award of the year, <span style="color:gray">Center for Neuroscience Imaging Research </span>
