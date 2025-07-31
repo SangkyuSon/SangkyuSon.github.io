@@ -7,7 +7,7 @@ title: Presentations
 
 ## Conference
 
-CCN 2025, poster <br>
+CCN 2025, poster &nbsp&nbsp&nbsp * This work received "Travel Award"  <br>
 **Son, S.** & Yoo, SBM. (2025). Title: Where you look in the past biases your social inference. 
 [[abstract]](https://2025.ccneuro.org/abstract_pdf/Son_2025_Where_look_past_biases_social_inference.pdf)<br>
 Title: Where you look in the past biases your social inference. <br>
@@ -20,7 +20,7 @@ CCN 2024, poster <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). [[poster]](https://drive.google.com/file/d/1PKWZXMNxkJwP_Z3njse5SY9RPEKfbQRe/view?usp=sharing) <br>
 Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
 
-Gordon-Frontal cortex 2024, poster     * This work received "Early Career Award - the GRC Frontal Cortex"  <br>
+Gordon-Frontal cortex 2024, poster &nbsp&nbsp&nbsp * This work received "Early Career Award - the GRC Frontal Cortex"  <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). [[poster]](https://drive.google.com/file/d/1PLDdTS4kiPkgLBM-bWtMygCC5T4ZLwaX/view?usp=sharing) <br>
 Title: Change of Initial Decision by Re-evaluation for Optimal Navigation <br>
 
