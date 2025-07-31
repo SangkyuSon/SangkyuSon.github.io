@@ -7,6 +7,11 @@ title: Presentations
 
 ## Conference
 
+CCN 2025, poster <br>
+**Son, S.** & Yoo, SBM. (2025). Title: Where you look in the past biases your social inference. 
+[[abstract]](https://2025.ccneuro.org/abstract_pdf/Son_2025_Where_look_past_biases_social_inference.pdf)<br>
+Title: Where you look in the past biases your social inference. <br>
+
 COSYNE 2025, poster <br>
 **Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2025). [[poster]](https://drive.google.com/file/d/1qt6dWvYx2divb1lVxhfRFGhSgXntEaSQ/view?usp=sharing) <br>
 Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtual Foraging. <br>
