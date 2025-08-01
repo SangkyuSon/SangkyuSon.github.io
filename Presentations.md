@@ -7,7 +7,7 @@ title: Presentations
 
 ## Conference
 
-CCN 2025, poster &nbsp&nbsp&nbsp * This work received "Travel Award"  <br>
+CCN 2025, poster &nbsp;&nbsp;&nbsp; * This work received "Travel Award"  <br>
 **Son, S.** & Yoo, SBM. (2025). Title: Where you look in the past biases your social inference. 
 [[abstract]](https://2025.ccneuro.org/abstract_pdf/Son_2025_Where_look_past_biases_social_inference.pdf)<br>
 Title: Where you look in the past biases your social inference. <br>
