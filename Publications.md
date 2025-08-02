@@ -34,6 +34,11 @@ Induced astigmatism biases the orientation information represented in multivaria
 
 ### Pre-prints
 
+**Son, S.**, & Yoo, SBM  (2025, *pre-print*). 
+[[web]](https://www.biorxiv.org/content/10.1101/2025.07.30.667795v1)
+[[code]](https://github.com/SangkyuSon/socialObservationHysteresis)<br> 
+Selective Observation Under Limited Resources Biases Social Inference Through Hysteresis. <br>
+
 **Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025, *pre-print*). 
 [[web]](https://www.biorxiv.org/content/10.1101/2025.04.13.648557v1)
 [[code]](https://github.com/SangkyuSon/astigEEG)  <br> 
