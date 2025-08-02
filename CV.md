@@ -50,6 +50,9 @@ Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalam
 ***
 
 *bioRxiv* <br>
+**Son, S.**, & Yoo, SBM (2025, *pre-print*).Selective Observation Under Limited Resources Biases Social Inference Through Hysteresis. <be>
+
+*bioRxiv* <br>
 **Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025, *pre-print*). Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <be>
 
 *bioRxiv* <br>
