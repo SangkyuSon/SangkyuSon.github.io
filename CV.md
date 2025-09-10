@@ -35,6 +35,10 @@ Contact: <ss.sangkyu.son@gmail.com>
 [(see in details)](./Publications.md)
 
 ***
+
+*iScience* <br>
+**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025). Dynamic Neural Compensation for Distorted Orientation Perception in Chronic Astigmatism. <be>
+
 *Neuron* <br>
 Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <be>
 
@@ -51,9 +55,6 @@ Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalam
 
 *bioRxiv* <br>
 **Son, S.**, & Yoo, SBM (2025, *pre-print*). Selective Observation Under Limited Resources Biases Social Inference Through Hysteresis. <be>
-
-*bioRxiv* <br>
-**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025, *pre-print*). Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <be>
 
 *bioRxiv* <br>
 **Son, S.**, Wang, M., Hayden, B., & Yoo, SBM (2024, *pre-print*). State-dependent Online Reactivations for Different Learning Strategies in Foraging. <be>
