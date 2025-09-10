@@ -7,6 +7,14 @@ title: Publications
 ***
 ### Peer-reviewed
 
+**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025). 
+[[web]](https://doi.org/10.1016/j.isci.2025.113518)
+[[code]](https://github.com/SangkyuSon/astigEEG)
+[[data]](https://doi.org/10.5281/zenodo.15833926)
+<br>
+Dynamic Neural Compensation for Distorted Orientation Perception in Chronic Astigmatism. <br>
+*iScience* <br>
+
 Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). [[web]](https://www.cell.com/neuron/fulltext/S0896-6273(24)00236-8) <br>
 Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <br>
 *Neuron* <br>
