@@ -47,11 +47,6 @@ Induced astigmatism biases the orientation information represented in multivaria
 [[code]](https://github.com/SangkyuSon/socialObservationHysteresis)<br> 
 Selective Observation Under Limited Resources Biases Social Inference Through Hysteresis. <br>
 
-**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025, *pre-print*). 
-[[web]](https://www.biorxiv.org/content/10.1101/2025.04.13.648557v1)
-[[code]](https://github.com/SangkyuSon/astigEEG)  <br> 
-Neural Gain Modulation Propagates from Posterior to Anterior Brain Regions to Optimize Orientation Perception in Chronic Astigmatism. <br>
-
 **Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (2024, *pre-print*). 
 [[web]](https://www.biorxiv.org/content/10.1101/2024.03.25.586512v1)
 [[code]](https://github.com/SangkyuSon/VRmaze)  <br> 
