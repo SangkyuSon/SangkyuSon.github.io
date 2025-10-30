@@ -7,6 +7,10 @@ title: Presentations
 
 ## Conference
 
+Neuronal and Glial Functions 2025, selected poster<br>
+**Son, S.** et al., (2025). 
+Title: One-Shot Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
+
 CCN 2025, poster &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Travel Award"  <br>
 **Son, S.** & Yoo, SBM. (2025). [[abstract]](https://2025.ccneuro.org/abstract_pdf/Son_2025_Where_look_past_biases_social_inference.pdf)<br>
 Title: Where you look in the past biases your social inference. <br>
@@ -38,3 +42,14 @@ Title: The effect of temporal expectation on motion direction representation of 
 VSS 2018, poster <br>
 **Son. S.**, & Kim, Y. J. (2018). [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) [[poster]](https://drive.google.com/file/d/12lPcHovDV4zPp7LffBWsmiESxxpupSz-/view?usp=sharing) <br>
 Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+
+### Invited talks
+
+Baylor College of Medicine (2024, Joint group) <br>
+Title: Change of mind during spatial navigation. <br>
+
+Baylor College of Medicine (2024, Benjamin Hayden's group) <br>
+Title: To build trust in Gollum. <br>
+
+University of Minnesota Twin Cities (2022, Joint group) <br>
+Title: The neural basis of state-dependent goal navigation. <br>
