@@ -7,41 +7,32 @@ title: Presentations
 
 ## Conference
 
-Neuronal and Glial Functions 2025, selected poster<br>
-**Son, S.** et al., (2025). 
+Neuronal and Glial Functions 2025, poster (2025) <br>
 Title: One-Shot Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
 
-CCN 2025, poster &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Travel Award"  <br>
-**Son, S.** & Yoo, SBM. (2025). [[abstract]](https://2025.ccneuro.org/abstract_pdf/Son_2025_Where_look_past_biases_social_inference.pdf)<br>
-Title: Where you look in the past biases your social inference. <br>
+CCN, poster (2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Travel Award"  <br>
+Title: Where you look in the past biases your social inference. [[abstract]](https://2025.ccneuro.org/abstract_pdf/Son_2025_Where_look_past_biases_social_inference.pdf)<br>
 
-COSYNE 2025, poster <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2025). [[poster]](https://drive.google.com/file/d/1qt6dWvYx2divb1lVxhfRFGhSgXntEaSQ/view?usp=sharing) <br>
-Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtual Foraging. <br>
+COSYNE, poster (2025) <br>
+Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtual Foraging. [[poster]](https://drive.google.com/file/d/1qt6dWvYx2divb1lVxhfRFGhSgXntEaSQ/view?usp=sharing) <br>
 
-CCN 2024, poster <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). [[poster]](https://drive.google.com/file/d/1PKWZXMNxkJwP_Z3njse5SY9RPEKfbQRe/view?usp=sharing) <br>
-Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
+CCN, poster (2024) <br>
+Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. [[poster]](https://drive.google.com/file/d/1PKWZXMNxkJwP_Z3njse5SY9RPEKfbQRe/view?usp=sharing) <br>
 
-Gordon-Frontal cortex 2024, poster &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Early Career Award - the GRC Frontal Cortex"  <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). [[poster]](https://drive.google.com/file/d/1PLDdTS4kiPkgLBM-bWtMygCC5T4ZLwaX/view?usp=sharing) <br>
-Title: Change of Initial Decision by Re-evaluation for Optimal Navigation <br>
+Gordon-Frontal cortex 2024, poster (2024) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Early Career Award - the GRC Frontal Cortex"  <br>
+Title: Change of Initial Decision by Re-evaluation for Optimal Navigation [[poster]](https://drive.google.com/file/d/1PLDdTS4kiPkgLBM-bWtMygCC5T4ZLwaX/view?usp=sharing) <br>
 
-SfN 2022, poster <br>
-**Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). [[video]](https://youtu.be/1we8NadNxqU) [[poster]](https://drive.google.com/file/d/1MN05koFoey5cuhuKoPGWrTHrCNL8TcQI/view?usp=sharing) <br>
-Title: The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
+SfN, poster (2022) <br>
+Title: The brain optimizes perception in astigmatism through compensatory gain modulation. [[video]](https://youtu.be/1we8NadNxqU) [[poster]](https://drive.google.com/file/d/1MN05koFoey5cuhuKoPGWrTHrCNL8TcQI/view?usp=sharing) <br>
 
-VSS 2022, talk <br>
-**Son, S.**, Kang, H., & Lee, J. (2022). [[video]](https://youtu.be/iO4vFkADv6E) <br>
-Title: Automatic adjustment of the neural orientation space in astigmatic vision. <br>
+VSS, talk (2022) <br>
+Title: Automatic adjustment of the neural orientation space in astigmatic vision. [[video]](https://youtu.be/iO4vFkADv6E) <br>
 
-SfN 2021, poster <br>
-**Son, S.**, Moon, J., & Lee, J. (2021). [[video]](https://www.youtube.com/watch?v=za12HqT5_gA) <br>
-Title: The effect of temporal expectation on motion direction representation of an occluded object. <br>
+SfN, poster (2021) <br>
+Title: The effect of temporal expectation on motion direction representation of an occluded object. [[video]](https://www.youtube.com/watch?v=za12HqT5_gA) <br>
 
-VSS 2018, poster <br>
-**Son. S.**, & Kim, Y. J. (2018). [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) [[poster]](https://drive.google.com/file/d/12lPcHovDV4zPp7LffBWsmiESxxpupSz-/view?usp=sharing) <br>
-Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+VSS, poster (2018) <br>
+Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) [[poster]](https://drive.google.com/file/d/12lPcHovDV4zPp7LffBWsmiESxxpupSz-/view?usp=sharing) <br>
 
 ### Invited talks
 
