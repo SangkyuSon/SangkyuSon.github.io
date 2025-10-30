@@ -5,7 +5,7 @@ title: Publications
 \* indicates equal contributions
 
 ***
-### Peer-reviewed
+#### Peer-reviewed
 
 **Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025). 
 [[web]](https://doi.org/10.1016/j.isci.2025.113518)
@@ -40,7 +40,7 @@ Induced astigmatism biases the orientation information represented in multivaria
 
 ***
 
-### Pre-prints
+#### Pre-prints
 
 **Son, S.**, & Yoo, SBM  (2025, *pre-print*). 
 [[web]](https://www.biorxiv.org/content/10.1101/2025.07.30.667795v1)
