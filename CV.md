@@ -33,7 +33,6 @@ Contact: <ss.sangkyu.son@gmail.com>
 
 ## Publications 
 [(see in details)](./Publications.md)
-### Peer-reviewed
 
 **Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025). 
 [[web]](https://doi.org/10.1016/j.isci.2025.113518)
@@ -68,8 +67,6 @@ Induced astigmatism biases the orientation information represented in multivaria
 
 ***
 
-### Pre-prints
-
 **Son, S.**, & Yoo, SBM  (2025, *pre-print*). 
 [[web]](https://www.biorxiv.org/content/10.1101/2025.07.30.667795v1)
 [[code]](https://github.com/SangkyuSon/socialObservationHysteresis)<br> 
@@ -85,17 +82,12 @@ State-dependent Online Reactivations for Different Learning Strategies in Foragi
 Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble Representations. <br>
 
 ***
-### Thesis
-**Son, S.** (2021). 
-[[web]](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
-Distortion and compensation of astigmatism in orientation information (master's thesis). <br>
-*Sungkyunkwan University* <br>
-***
 
 ## Presentations 
 [(see in details)](./Presentations.md)
 
-#### Conference
+***
+
 Neuronal and Glial Functions 2025, poster (2025) <br>
 Title: One-Shot Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
 
@@ -123,8 +115,7 @@ Title: The effect of temporal expectation on motion direction representation of 
 VSS, poster (2018) <br>
 Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) [[poster]](https://drive.google.com/file/d/12lPcHovDV4zPp7LffBWsmiESxxpupSz-/view?usp=sharing) <br>
 
-#### Invited talks
-
+***
 Baylor College of Medicine (2024, Joint group) <br>
 Title: Change of mind during spatial navigation. <br>
 
