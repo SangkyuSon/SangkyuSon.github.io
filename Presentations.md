@@ -19,7 +19,7 @@ Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtu
 CCN, poster (2024) <br>
 Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. [[poster]](https://drive.google.com/file/d/1PKWZXMNxkJwP_Z3njse5SY9RPEKfbQRe/view?usp=sharing) <br>
 
-Gordon-Frontal cortex 2024, poster (2024) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Early Career Award - the GRC Frontal Cortex"  <br>
+Gordon-Frontal cortex, poster (2024) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Early Career Award - the GRC Frontal Cortex"  <br>
 Title: Change of Initial Decision by Re-evaluation for Optimal Navigation [[poster]](https://drive.google.com/file/d/1PLDdTS4kiPkgLBM-bWtMygCC5T4ZLwaX/view?usp=sharing) <br>
 
 SfN, poster (2022) <br>
