@@ -33,68 +33,106 @@ Contact: <ss.sangkyu.son@gmail.com>
 
 ## Publications 
 [(see in details)](./Publications.md)
+### Peer-reviewed
 
-***
-
+**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025). 
+[[web]](https://doi.org/10.1016/j.isci.2025.113518)
+[[code]](https://github.com/SangkyuSon/astigEEG)
+[[data]](https://doi.org/10.5281/zenodo.15833926)
+<br>
+Dynamic Neural Compensation for Distorted Orientation Perception in Chronic Astigmatism. <br>
 *iScience* <br>
-**Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025). Dynamic Neural Compensation for Distorted Orientation Perception in Chronic Astigmatism. <be>
 
+Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). [[web]](https://www.cell.com/neuron/fulltext/S0896-6273(24)00236-8) <br>
+Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <br>
 *Neuron* <br>
-Ha, LJ., ..., **Son, S.**, Yoo, SBM., ..., Lee, Y., Choi, HJ. (2024). Hypothalamic neuronal activation in non-human primates drives naturalistic goal-directed eating behavior. <be>
 
+**Son, S.**, Moon, J., Kim, Y. J., Kang, MS, & Lee, J. (2023). 
+[[web]](https://doi.org/10.1016/j.neuroimage.2023.119914)
+[[code]](https://www.dropbox.com/sh/deyj5j6g4t5gmt4/AACRYR_T61edemU_48l8d03ta?dl=0)
+<br>
+Frontal-to-visual information flow explains predictive motion tracking. <br>
 *NeuroImage* <br>
-**Son, S.**, Moon, J.\*, Kim, Y. J., Kang, MS, & Lee, J. (2023). Frontal-to-visual information flow explains predictive motion tracking. <br>
 
+**Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). 
+[[web]](https://www.nature.com/articles/s41598-022-07788-y) 
+<br>
+Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
 *Scientific Reports* <br>
-**Son, S.**, Shim, WM, Kang, H., & Lee, J. (2022). Automatic compensation enhances the orientation perception in chronic astigmatism. <br>
 
-*Human Brain Mapping* <br>
-**Son, S.**, Moon, J.\*, Kang, H., Kim, Y. J., & Lee, J. (2021). Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
+**Son, S.**, Moon, J., Kang, H., Kim, Y. J., & Lee, J. (2021). 
+[[web]](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25550)
+[[code]](https://www.dropbox.com/sh/o1jg74rw3sdqx1g/AACQjgXq0TZWrCnkTM7bsgsga?dl=0) <br> 
+Induced astigmatism biases the orientation information represented in multivariate electroencephalogram activities. <br>
+*Human Brain Mapping.* <br>
 
 ***
 
-*bioRxiv* <br>
-**Son, S.**, & Yoo, SBM (2025, *pre-print*). Selective Observation Under Limited Resources Biases Social Inference Through Hysteresis. <be>
+### Pre-prints
 
-*bioRxiv* <br>
-**Son, S.**, Wang, M., Hayden, B., & Yoo, SBM (2024, *pre-print*). State-dependent Online Reactivations for Different Learning Strategies in Foraging. <be>
+**Son, S.**, & Yoo, SBM  (2025, *pre-print*). 
+[[web]](https://www.biorxiv.org/content/10.1101/2025.07.30.667795v1)
+[[code]](https://github.com/SangkyuSon/socialObservationHysteresis)<br> 
+Selective Observation Under Limited Resources Biases Social Inference Through Hysteresis. <br>
 
-*bioRxiv* <br>
-**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <be>
+**Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (2024, *pre-print*). 
+[[web]](https://www.biorxiv.org/content/10.1101/2024.03.25.586512v1)
+[[code]](https://github.com/SangkyuSon/VRmaze)  <br> 
+State-dependent Online Reactivations for Different Learning Strategies in Foraging.
 
+**Son, S.**, Lee, J., Kwon, O, & Kim, Y. J. (2021, *pre-print*). 
+[[web]](https://www.biorxiv.org/content/10.1101/2021.11.30.470662v1.full) <br> 
+Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble Representations. <br>
+
+***
+### Thesis
+**Son, S.** (2021). 
+[[web]](https://lib.skku.edu/suwon/en/#/search/detail/14859124)<br>
+Distortion and compensation of astigmatism in orientation information (master's thesis). <br>
+*Sungkyunkwan University* <br>
 ***
 
 ## Presentations 
 [(see in details)](./Presentations.md)
 
-CCN 2025, poster <br>
-**Son, S.** & Yoo, SBM. (2025). Title: Where you look in the past biases your social inference. <br>
-***This work received "Travel award"** <br>
+#### Conference
+Neuronal and Glial Functions 2025, poster (2025) <br>
+Title: One-Shot Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
 
-COSYNE 2025, poster <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2025). Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtual Foraging. <br>
+CCN, poster (2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Travel Award"  <br>
+Title: Where you look in the past biases your social inference. [[abstract]](https://2025.ccneuro.org/abstract_pdf/Son_2025_Where_look_past_biases_social_inference.pdf)<br>
 
-CCN 2024, poster <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. <br>
+COSYNE, poster (2025) <br>
+Title: Emergence of Categorical Behaviors from the Blended Dynamics during Virtual Foraging. [[poster]](https://drive.google.com/file/d/1qt6dWvYx2divb1lVxhfRFGhSgXntEaSQ/view?usp=sharing) <br>
 
-Gordon-Frontal cortex 2024, poster <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2024). Title: Change of Initial Decision by Re-evaluation for Optimal Navigation <br>
-***This work received "Early Career Award - the GRC Frontal Cortex"** <br>
+CCN, poster (2024) <br>
+Title: Mixture of Multiple Dynamics Underpins Categorical Behavioral States in Virtual Foraging. [[poster]](https://drive.google.com/file/d/1PKWZXMNxkJwP_Z3njse5SY9RPEKfbQRe/view?usp=sharing) <br>
 
-SfN 2022, poster <br>
-**Son, S.**, Shim, WM., Kang, H., & Lee, J. (2022). Title: The brain optimizes perception in astigmatism through compensatory gain modulation. <br>
+Gordon-Frontal cortex, poster (2024) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * This work received "Early Career Award - the GRC Frontal Cortex"  <br>
+Title: Change of Initial Decision by Re-evaluation for Optimal Navigation [[poster]](https://drive.google.com/file/d/1PLDdTS4kiPkgLBM-bWtMygCC5T4ZLwaX/view?usp=sharing) <br>
 
-University of Minnesota, 2022, <br>
-**Son, S.**, Wang, MZ., Hayden, BJ., & Yoo, SBM. (2022). Title: The neural basis of state-dependent goal navigation. <br>
+SfN, poster (2022) <br>
+Title: The brain optimizes perception in astigmatism through compensatory gain modulation. [[video]](https://youtu.be/1we8NadNxqU) [[poster]](https://drive.google.com/file/d/1MN05koFoey5cuhuKoPGWrTHrCNL8TcQI/view?usp=sharing) <br>
 
-VSS 2022, talk <br>
-**Son, S.**, Kang, H., & Lee, J. (2022). Title: Automatic adjustment of the neural orientation space in astigmatic vision. <br>
+VSS, talk (2022) <br>
+Title: Automatic adjustment of the neural orientation space in astigmatic vision. [[video]](https://youtu.be/iO4vFkADv6E) <br>
 
-SfN 2021, poster <br>
-**Son, S.**, Moon, J., & Lee, J. (2021). Title: The effect of temporal expectation on motion direction representation of an occluded object. <br>
+SfN, poster (2021) <br>
+Title: The effect of temporal expectation on motion direction representation of an occluded object. [[video]](https://www.youtube.com/watch?v=za12HqT5_gA) <br>
 
-VSS 2018, poster <br>
-**Son. S.**, & Kim, Y. J. (2018). Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. <br>
+VSS, poster (2018) <br>
+Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) [[poster]](https://drive.google.com/file/d/12lPcHovDV4zPp7LffBWsmiESxxpupSz-/view?usp=sharing) <br>
+
+#### Invited talks
+
+Baylor College of Medicine (2024, Joint group) <br>
+Title: Change of mind during spatial navigation. <br>
+
+Baylor College of Medicine (2024, Benjamin Hayden's group) <br>
+Title: To build trust in Gollum. <br>
+
+University of Minnesota Twin Cities (2022, Joint group) <br>
+Title: The neural basis of state-dependent goal navigation. <br>
 
 ***
 
