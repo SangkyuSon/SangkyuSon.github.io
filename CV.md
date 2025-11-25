@@ -86,7 +86,7 @@ Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble
 ## Presentations 
 [(see in details)](./Presentations.md)
 
-### Conference
+#### Conference
 
 SfN 2025, poster (2025) / Human Single Neuron, poster (2025) <br>
 Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. [[poster]](https://drive.google.com/file/d/1iae668oTUNmEw1dbXl_aiVVZsX7DYFQE/view?usp=sharing) <br>
@@ -118,7 +118,7 @@ Title: The effect of temporal expectation on motion direction representation of 
 VSS, poster (2018) <br>
 Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) [[poster]](https://drive.google.com/file/d/12lPcHovDV4zPp7LffBWsmiESxxpupSz-/view?usp=sharing) <br>
 
-### Invited talks
+#### Invited talks
 
 University of Utah (2025, Elliot Smith's group) <br>
 Title: Feedback Controlfor Learning. <br>
