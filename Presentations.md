@@ -7,6 +7,12 @@ title: Presentations
 
 ## Conference
 
+SfN 2025, poster (2025) <br>
+Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
+
+Human Single Neuron, poster (2025) <br>
+Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
+
 Neuronal and Glial Functions 2025, poster (2025) <br>
 Title: One-Shot Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
 
@@ -35,6 +41,9 @@ VSS, poster (2018) <br>
 Title: Effect of spatiotemporally changing environment on serial dependence in ensemble representations. [[abstract]](https://jov.arvojournals.org/article.aspx?articleid=2699069) [[poster]](https://drive.google.com/file/d/12lPcHovDV4zPp7LffBWsmiESxxpupSz-/view?usp=sharing) <br>
 
 ### Invited talks
+
+University of Utah (2025, Elliot Smith's group) <br>
+Title: Feedback Control for Learning. <br>
 
 Baylor College of Medicine (2024, Joint group) <br>
 Title: Change of mind during spatial navigation. <br>
