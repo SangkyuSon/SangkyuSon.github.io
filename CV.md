@@ -121,7 +121,7 @@ Title: Effect of spatiotemporally changing environment on serial dependence in e
 ### Invited talks
 
 University of Utah (2025, Elliot Smith's group) <br>
-Title: Feedback Control for Learning. <br>
+Title: Feedback Controlfor Learning. <br>
 
 Baylor College of Medicine (2024, Joint group) <br>
 Title: Change of mind during spatial navigation. <br>
