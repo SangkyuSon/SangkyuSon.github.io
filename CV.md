@@ -88,11 +88,8 @@ Effect of Spatiotemporally Changing Environment on Serial Dependence in Ensemble
 
 ### Conference
 
-SfN 2025, poster (2025) <br>
-Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
-
-Human Single Neuron, poster (2025) <br>
-Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
+SfN 2025, poster (2025) / Human Single Neuron, poster (2025) <br>
+Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. [[poster]](https://drive.google.com/file/d/1iae668oTUNmEw1dbXl_aiVVZsX7DYFQE/view?usp=sharing) <br>
 
 Neuronal and Glial Functions 2025, poster (2025) <br>
 Title: One-Shot Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
@@ -124,7 +121,7 @@ Title: Effect of spatiotemporally changing environment on serial dependence in e
 ### Invited talks
 
 University of Utah (2025, Elliot Smith's group) <br>
-Title: Feedback Control for Learning. <br>
+Title: Feedback Control for Learning. <br>
 
 Baylor College of Medicine (2024, Joint group) <br>
 Title: Change of mind during spatial navigation. <br>
@@ -134,6 +131,7 @@ Title: To build trust in Gollum. <br>
 
 University of Minnesota Twin Cities (2022, Joint group) <br>
 Title: The neural basis of state-dependent goal navigation. <br>
+
 ***
 
 ## Honors
