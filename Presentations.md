@@ -7,11 +7,8 @@ title: Presentations
 
 ## Conference
 
-SfN 2025, poster (2025) <br>
-Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
-
-Human Single Neuron, poster (2025) <br>
-Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
+SfN 2025, poster (2025) / Human Single Neuron, poster (2025) <br>
+Title: Rapid Sequence Learning through Adaptive Feedback Control in Human Hippocampus. [[poster]](https://drive.google.com/file/d/1iae668oTUNmEw1dbXl_aiVVZsX7DYFQE/view?usp=sharing) <br>
 
 Neuronal and Glial Functions 2025, poster (2025) <br>
 Title: One-Shot Sequence Learning through Adaptive Feedback Control in Human Hippocampus. <br>
