@@ -7,6 +7,13 @@ title: Publications
 ***
 #### Peer-reviewed
 
+**Son, S.**, & Yoo, SBM  (2026). 
+[[web]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014200)
+[[code]](https://github.com/SangkyuSon/socialObservationHysteresis)
+[[data]](https://doi.org/10.5281/zenodo.17986013)<br> 
+Selective observation following betrayal shapes the social inference landscape <br>
+*Plos Computational Biology* <br>
+
 **Son, S.**, Kang, H., Kim, H.G., Shim, WM., & Lee, J. (2025). 
 [[web]](https://doi.org/10.1016/j.isci.2025.113518)
 [[code]](https://github.com/SangkyuSon/astigEEG)
@@ -41,11 +48,6 @@ Induced astigmatism biases the orientation information represented in multivaria
 ***
 
 #### Pre-prints
-
-**Son, S.**, & Yoo, SBM  (2025, *pre-print*). 
-[[web]](https://www.biorxiv.org/content/10.1101/2025.07.30.667795v1)
-[[code]](https://github.com/SangkyuSon/socialObservationHysteresis)<br> 
-Selective Observation Under Limited Resources Biases Social Inference Through Hysteresis. <br>
 
 **Son, S.**, Wang, MZ., Hayden, BY., Yoo, SBM. (2024, *pre-print*). 
 [[web]](https://www.biorxiv.org/content/10.1101/2024.03.25.586512v1)
