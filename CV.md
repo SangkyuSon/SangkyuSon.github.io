@@ -21,7 +21,11 @@ Contact: <ss.sangkyu.son@gmail.com>
 ***
 
 ## Positions
-- <span style="color:gray">2022-present</span> **Ph.D student** <br> 
+- <span style="color:gray">2026-present</span> **PostDoc** <br> 
+<span style="color:gray">Department of Neurosurgery, Baylor college of medicine</span><br>
+<span style="color:gray">Advisor: [Sameer A. Sheth](https://www.bcm.edu/research/faculty-labs/functional-and-cognitive-neurophysiology-laboratory)</span>
+
+- <span style="color:gray">2022-2026</span> **Ph.D student** <br> 
 <span style="color:gray">Center for Neuroscience Imaging Research, Institute for Basic Science</span><br>
 <span style="color:gray">Advisor: [Seng Bum Michael Yoo](https://myoolab.com/)</span>
 
